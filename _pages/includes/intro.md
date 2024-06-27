@@ -2,7 +2,7 @@
 I work at Multimodal Agent Researcher as a Phd now in [UTS NLP Group](https://utsnlp.github.io/), advised by [Prof. Ling Chen](https://profiles.uts.edu.au/Ling.Chen) and [Prof. Meng Fang](https://mengf1.github.io/). 
 
 
-I graduated from JiangSu University with a bachelor's degree and from the Department of Computer Science and Technology,  University of Adelaide with a master's degree, advised by [Yutong Xie](https://scholar.google.com/citations?user=ddDL9HMAAAAJ&hl=zh-CN) and [Yifan Liu](https://scholar.google.com/citations?user=ksQ4JnQAAAAJ&hl=zh-CN). I also collaborate with  [Zeyu Zhang](https://steve-zeyu-zhang.github.io/) from [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/) < img src='./images/microsoft_logo.svg' style="width: 4em;"> closely.
+I graduated from JiangSu University with a bachelor's degree and from the Department of Computer Science and Technology,  University of Adelaide with a master's degree, advised by [Yutong Xie](https://scholar.google.com/citations?user=ddDL9HMAAAAJ&hl=zh-CN) and [Yifan Liu](https://scholar.google.com/citations?user=ksQ4JnQAAAAJ&hl=zh-CN). I also collaborate with  [Zeyu Zhang](https://steve-zeyu-zhang.github.io/) from [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/) closely.
 
 
 
